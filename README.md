@@ -1,4 +1,4 @@
-#5 NGÀY "VỌC" VỚI MOBILE APP
+# 5 NGÀY "VỌC" VỚI MOBILE APP
 
 **To do:**
 - Day 1: Planning & Researching
@@ -7,28 +7,28 @@
 - Day 4: Integrate + Science research
 - Day 5: Documentation
 
-##PLANNING
+## PLANNING
 ### DAY 1: Planning & Researching
 **Task: **
 1. Understand about React (What, How, Why, install, distinguish [feature.component.page])
 2. How do ionic app with React Framework? - Weather app, Login&Register app
 3. Firebase + React
 
-###DAY 2: React + Ionic | Specification
+### DAY 2: React + Ionic | Specification
 **Task: **
 1. Make the WeatherApp & Login-RegisterApp Specification 
 2. Build WeatherApp
 3. Build Login&RegisterApp
 4. How to publish app to my mobile
 
-###DAY 3: Features + Components + Props
+### DAY 3: Features + Components + Props
 **Task: **
 1. Add features (possible)
 2. Add Components (possible)
 3. Add Props (possible)
 4. Pratice 
 
-###DAY 4: integrate + Science research
+### DAY 4: integrate + Science research
 **Task: **
 1. Specification
 2. Analysic + Desgin
@@ -36,7 +36,7 @@
 4. Testing
 
 
-###DAY 5: Documentation
+### DAY 5: Documentation
 **Task:**
 1. Overview the NCKH project
 2. Overview React + Ionic
@@ -45,9 +45,9 @@
 5. Review applicability + reality
 
 ---------------------------------
-##Researching
+## Researching
 
-###React 
+### React 
 
 **What**
 - Web Library
@@ -89,20 +89,20 @@ and if(custome):
 ```
 # goto /src 
 del * # windows
-rm -f * #Linux | MAC
+rm -f * # Linux | MAC
 ```
 
-###React Props
+### React Props
 attributes(name=value) tagHTML -> function's parameters | class's attribute (props)
 
-###React state
+### React state
 "State" - contain data | info (Component)
 
 
-###React Components
+### React Components
 Functions and Classes
 
-###React Features
+### React Features
 - JSX
 - Virtual DOM
 - Extension
@@ -111,9 +111,9 @@ Functions and Classes
 - One-way data binding
 
 
-##DAY 2: How do Ionic + React
+## DAY 2: How do Ionic + React
 
-###How to
+### How to
 
 **Start project**
 
