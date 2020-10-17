@@ -1,6 +1,6 @@
 # 5 NGÀY "VỌC" VỚI MOBILE APP
 
-**To do:**
+** To do: ** 
 - Day 1: Planning & Researching
 - Day 2: React + Ionic | Specification
 - Day 3: Features + Components + Props (Build App)
@@ -9,27 +9,27 @@
 
 ## PLANNING
 ### DAY 1: Planning & Researching
-**Task: **
+** Task: ** 
 1. Understand about React (What, How, Why, install, distinguish [feature.component.page])
 2. How do ionic app with React Framework? - Weather app, Login&Register app
 3. Firebase + React
 
 ### DAY 2: React + Ionic | Specification
-**Task: **
+** Task: ** 
 1. Make the WeatherApp & Login-RegisterApp Specification 
 2. Build WeatherApp
 3. Build Login&RegisterApp
 4. How to publish app to my mobile
 
 ### DAY 3: Features + Components + Props
-**Task: **
+** Task: ** 
 1. Add features (possible)
 2. Add Components (possible)
 3. Add Props (possible)
 4. Pratice 
 
 ### DAY 4: integrate + Science research
-**Task: **
+** Task: ** 
 1. Specification
 2. Analysic + Desgin
 3. Coding
@@ -37,7 +37,7 @@
 
 
 ### DAY 5: Documentation
-**Task:**
+** Task: ** 
 1. Overview the NCKH project
 2. Overview React + Ionic
 3. Detail the "App điểm danh" idea
@@ -49,21 +49,21 @@
 
 ### React 
 
-**What**
+** What ** 
 - Web Library
 - front-end (majoyrity)
 
-**Why (what I see)**
+** Why (what I see) ** 
 - utilities
 - supported by JS libs
 - can over the internet
 - flexiable
 
-**How work (core)** 
+** How work (core) **  
 - JSX (JavaScript Syntax Extension) <-(basic)
 
 
-**Install**
+** Install ** 
 Requirement: 
 - Download the Nodejs last version ( >= 8.0)
 - NPX - Node Package Exec
@@ -88,8 +88,8 @@ yarn start
 and if(custome):
 ```
 # goto /src 
-del * # windows
-rm -f * # Linux | MAC
+del  *  # windows
+rm -f  *  # Linux | MAC
 ```
 
 ### React Props
@@ -115,7 +115,7 @@ Functions and Classes
 
 ### How to
 
-**Start project**
+** Start project ** 
 
 Before proceeding, make sure our computer have Nodejs, npm. After, turn on terminal:
 
@@ -135,7 +135,7 @@ ionic serve
 ```
 
 
-**Integrate**
+** Integrate ** 
 If probably a react project then procee two command to it:
 ```
 npm install @ionic/react
