@@ -1,12 +1,10 @@
 import React from "react";
-import "./MyHomePage.css";
+import { IonContent, IonToolbar, IonButton, IonTitle } from "@ionic/react";
+
+import AdminPage from "./admin/AdminPage";
 
 const HomePage:React.FC = () =>{
-	return (
-		<div>
-			Hello world
-		</div>
-	);
+	return (<AdminPage/>);
 }
 
 export default HomePage;

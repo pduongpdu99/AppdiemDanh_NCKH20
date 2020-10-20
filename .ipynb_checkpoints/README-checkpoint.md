@@ -221,9 +221,3 @@ Here, I exploit it
 ---
 
 ## DAY 4: Integrate & Science researching
-- Register&login
-- AppDiemDanh
-
-## Day 5: Document
-- In this part, I haven't anything share to you.
-=)))

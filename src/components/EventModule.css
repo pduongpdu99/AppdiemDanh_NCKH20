@@ -1,0 +1,7 @@
+.create-button{
+	width: 40%;
+	position: relative;
+	left: 70%;
+	transform: translateX(-30%);
+	margin-top: 20px;
+}
