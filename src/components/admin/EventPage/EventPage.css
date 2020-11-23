@@ -1,0 +1,16 @@
+div.element-type {
+	font-size: 14px; 
+	height: 100%; 
+	width: fit-content; 
+	white-space:pre-wrap;
+    align-items: center;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.admin-container {
+	overflow-y: auto;
+	align-items:"initial";
+	display: "flow-root";
+	text-align: "left";
+}

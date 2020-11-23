@@ -3,6 +3,9 @@ import { Redirect, Route } from 'react-router-dom';
 import { IonApp, IonRouterOutlet } from '@ionic/react';
 import { IonReactRouter } from '@ionic/react-router';
 import Home from './pages/Home';
+import AdminPage from './components/admin/AdminPage';
+import { CreateEventPage } from './components/admin/EventPage/CreateEventPage';
+import { ReadEventPage } from './components/admin/EventPage/ReadEventPage';
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
@@ -29,7 +32,11 @@ const App: React.FC = () => (
       <IonRouterOutlet>
         <Route path="/home" component={Home} exact={true} />
         <Route path="/admin" component={AdminPage} exact={true} />
-        <Route exact path="/" render={() => <Redirect to="/home" />} />
+        <Route path="/create-event" component={ CreateEventPage }/>
+        <Route path="/create-lab" component={ CreateEventPage }/>
+        <Route path="/read-event" component={ ReadEventPage }/>
+        <Route path="/read-lab" component={ ReadEventPage }/>
+        <Route exact path="/" render={() => <Redirect to="/home"/>}/>
       </IonRouterOutlet>
     </IonReactRouter>
   </IonApp>
